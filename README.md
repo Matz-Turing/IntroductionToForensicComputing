@@ -1,7 +1,5 @@
 # Introdução A Computação Forense
 
-![Imagem do Projeto](img/1.png)
-
 ## Sobre o Projeto
 
 Este projeto é uma aplicação de console desenvolvida em C# que oferece uma introdução ao campo da computação forense. A computação forense é uma disciplina crucial na ciência forense digital que envolve a coleta, análise e preservação de evidências digitais em um ambiente legal. O objetivo principal é ajudar profissionais e interessados a entender os conceitos fundamentais, a evolução histórica e a importância legal da computação forense, bem como os princípios éticos e responsabilidades envolvidas na prática dessa disciplina.
@@ -24,6 +22,8 @@ A aplicação possui um menu interativo com as seguintes opções:
    
 5. **Curiosidades sobre a Introdução à Computação Forense**  
    Oferece curiosidades e fatos interessantes sobre o campo da computação forense.
+
+   ![Imagem do Projeto](img/1.png)
 
 ## Créditos
 
