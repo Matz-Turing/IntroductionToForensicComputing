@@ -1,6 +1,6 @@
 # Introduction to Digital Forensics
 
-![Imagem do Projeto](caminho/para/sua/imagem.png)
+![Imagem do Projeto](img/1.png)
 
 ## Sobre o Projeto
 
