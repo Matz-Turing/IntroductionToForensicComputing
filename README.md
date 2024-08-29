@@ -1,5 +1,7 @@
 # Introdução A Computação Forense
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ## Sobre o Projeto
 
 Este projeto é uma aplicação de console desenvolvida em C# que oferece uma introdução ao campo da computação forense. A computação forense é uma disciplina crucial na ciência forense digital que envolve a coleta, análise e preservação de evidências digitais em um ambiente legal. O objetivo principal é ajudar profissionais e interessados a entender os conceitos fundamentais, a evolução histórica e a importância legal da computação forense, bem como os princípios éticos e responsabilidades envolvidas na prática dessa disciplina.
