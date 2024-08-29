@@ -1,0 +1,14 @@
+C:\Users\perei\Downloads\introdução a Computação Forense\bin\Debug\net8.0\introdução a Computação Forense.exe
+C:\Users\perei\Downloads\introdução a Computação Forense\bin\Debug\net8.0\introdução a Computação Forense.deps.json
+C:\Users\perei\Downloads\introdução a Computação Forense\bin\Debug\net8.0\introdução a Computação Forense.runtimeconfig.json
+C:\Users\perei\Downloads\introdução a Computação Forense\bin\Debug\net8.0\introdução a Computação Forense.dll
+C:\Users\perei\Downloads\introdução a Computação Forense\bin\Debug\net8.0\introdução a Computação Forense.pdb
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.AssemblyInfoInputs.cache
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.AssemblyInfo.cs
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.csproj.CoreCompileInputs.cache
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.dll
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\refint\introdução a Computação Forense.dll
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.pdb
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\introdução a Computação Forense.genruntimeconfig.cache
+C:\Users\perei\Downloads\introdução a Computação Forense\obj\Debug\net8.0\ref\introdução a Computação Forense.dll
